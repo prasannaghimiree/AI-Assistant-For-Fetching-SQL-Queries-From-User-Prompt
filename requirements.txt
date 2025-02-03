@@ -1,0 +1,9 @@
+cx_Oracle
+google-generativeai
+pandas
+openpyxl
+nepali-datetime
+flask
+joblib
+python-dotenv
+python
